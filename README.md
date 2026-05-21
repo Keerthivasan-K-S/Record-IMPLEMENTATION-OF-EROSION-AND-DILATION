@@ -87,13 +87,13 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/27bab98f-36cf-4a6f-99bd-d1db06f497bf" />
+<img width="500" height="405" alt="image" src="https://github.com/user-attachments/assets/f47ae622-9474-469c-a72c-aa2ab42d60c2" />
 
 ### Display the Eroded Image
-<img width="500" height="402" alt="image" src="https://github.com/user-attachments/assets/ef9901f1-b519-4928-ad86-a1777d9bd47c" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/382f0662-cde6-491c-a883-e9f3b96d3422" />
 
 ### Display the Dilated Image
-<img width="500" height="403" alt="image" src="https://github.com/user-attachments/assets/bed8dac8-cdfd-4c02-8df4-1bd3b3fdc0fc" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2914fddc-5dd4-4d48-ba92-60071efe4371" />
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
